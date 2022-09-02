@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+}
+
+welcome {
+  color: gray;
+  font-size: 25;
+  font-family: "8BITWONDERNominal"
+}
+
+subtext {
+  font-family: "ClickuperRegular";
+  color: gray;
+  font-size: 25;
+}
+
+subperiod {
+ color: blue;
+ font-family: "ClickuperRegular";
+ font-size: 25;
+}
+
+bold {
+  color: white;
+  font-size: 20;
+  font-weight: bolder;
+  font-family: "ClickuperRegular";
+}
+
+subtextbutton {
+    font-family: "ClickuperRegular";
+  color: black;
+  font-size: 20;
+}
+
+about {
+  font-size: 20;
+  color: gray;
+  font-family: "ClickuperRegular";
+  font-weight: lighter;
+}
+
+a {
+  padding: 5px;
+  color: black;
+  background-color: orange;
+  margin: 4px 2px; 
+  border-radius: 100000px;
+}
+
+a:hover {
+    color: black;
+    background-color: #FFBA52;
+    padding: 10px;
+}
+
+wip {
+  color: red;
+  font-size: 25;
+  font-family: "8BITWONDERNominal"
+}
